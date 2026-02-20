@@ -5,8 +5,8 @@ This is a beginner-level sales analysis project using Python and SQL.
 -Python
 -SQL
 ## Project Files
-sales_analysis.py
-sales_query.sql
-README.md
+-sales_analysis.py
+-sales_query.sql
+-README.md
 ## Purpose
 To practice basic data analysis and SQL querying skills.
